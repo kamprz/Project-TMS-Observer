@@ -1,0 +1,4 @@
+Jan 28, 2018 9:48:16 AM util.scraper.tms.ProcessCleaner clean
+INFO: null
+Jan 28, 2018 9:48:17 AM util.scraper.tms.ProcessCleaner killProcesses
+INFO: Killed0pyQt processes and1python processes

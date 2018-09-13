@@ -1,0 +1,8 @@
+Jan 28, 2018 9:47:16 AM util.scraper.tms.ScrapTMSInspector goToSleep
+INFO: Inspector 1 idzie spac na 4 sekund.
+Jan 28, 2018 9:47:27 AM util.scraper.tms.ScrapTMSInspector run
+WARNING: TMS server is not working.
+Jan 28, 2018 9:47:38 AM util.scraper.tms.ScrapTMSInspector run
+INFO: Turning system off(2)
+Jan 28, 2018 9:47:51 AM util.scraper.tms.ScrapTMSInspector run
+INFO: Turning system off(3)

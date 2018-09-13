@@ -1,0 +1,19 @@
+mar 14, 2018 12:11:11 PM util.scraper.tms.ProcessCleaner clean
+INFO: To little processes number.
+PyQt processes:1
+Python processes :4
+Not starting to kill processes.
+mar 14, 2018 12:12:46 PM util.scraper.tms.ProcessCleaner clean
+INFO: To little processes number.
+PyQt processes:1
+Python processes :3
+Not starting to kill processes.
+mar 14, 2018 12:15:43 PM util.scraper.tms.ProcessCleaner clean
+INFO: To little processes number.
+PyQt processes:0
+Python processes :4
+Not starting to kill processes.
+mar 14, 2018 12:16:23 PM util.scraper.tms.ProcessCleaner clean
+INFO: null
+mar 14, 2018 12:16:23 PM util.scraper.tms.ProcessCleaner killProcesses
+INFO: Killed3pyQt processes and3python processes

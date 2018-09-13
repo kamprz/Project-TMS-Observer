@@ -1,0 +1,8 @@
+mar 14, 2018 12:16:05 PM controller.TMSScrapManager timePassed
+INFO: Time passed since last package arrived 5
+mar 14, 2018 12:16:12 PM controller.TMSScrapManager timePassed
+INFO: Time passed since last package arrived 7
+mar 14, 2018 12:16:14 PM controller.TMSScrapManager timePassed
+INFO: Time passed since last package arrived 1
+mar 14, 2018 12:16:23 PM controller.TMSScrapManager interruptInspectors
+INFO: Scrapers interrupted
