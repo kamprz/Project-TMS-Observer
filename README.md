@@ -11,5 +11,5 @@ Założenia techniczne:
 - parametryzacja przy użyciu plików properties
 - parsowanie danych XML
 - zastosowanie Hibernate'a (podstawy ORM)
-- podstawy mechanizmu logowania zdarzeń
+- wykorzystanie mechanizmu logowania zdarzeń
 - aplikacja napisana w jezyku Java z wykorzystaniem języka Python3
