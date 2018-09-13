@@ -12,4 +12,4 @@ Założenia techniczne:
 - parsowanie danych XML
 - zastosowanie Hibernate'a (podstawy ORM)
 - podstawy mechanizmu logowania zdarzeń
-- wykorzystanie języka Python3
+- aplikacja napisana w jezyku Java z wykorzystaniem języka Python3
