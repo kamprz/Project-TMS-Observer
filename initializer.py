@@ -25,7 +25,7 @@ class Page(QWebEnginePage):
 
 def main():
     page = Page('https://www.tms.pl/rynek/kursy-walut')
-
+ 
     soup = bs.BeautifulSoup(page.html, 'html.parser')
     table2 = soup.find('table', class_='tradings')
     if table2 is None : print("Did not connect")
