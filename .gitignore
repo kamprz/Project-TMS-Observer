@@ -1,2 +1,4 @@
-gitIgnoreThis.txt
-newFile.txt
+.gitignore
+.idea
+/logs
+target
